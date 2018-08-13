@@ -1,4 +1,4 @@
-# AWO
+# Longhorn Cinemas
 ## Project Info
 Movie theater ticketing website created for a University of Texas at Austin class competition using C# ASP.NET MVC5
 
